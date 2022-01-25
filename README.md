@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning python
 - 💞️ I’m looking job in python
-- 📫 How to reach me ...
+- 📫 How to reach me narayangunte2080@gmail.com
 
 <!---
 Narayangunte1998/Narayangunte1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
